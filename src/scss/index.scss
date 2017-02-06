@@ -1,0 +1,21 @@
+body {
+	background-color: #321;
+}
+
+.drawingwrapper, .previewwrapper {
+}
+
+a {
+	color: #ff0;
+}
+
+canvas {
+	background-color: #111;
+}
+
+.book {
+	// background-image: url(paper.png);
+	width: 480px;
+	height: 280px;
+	box-shadow: 0 5px 20px rgba(0,0,0,0.3)
+}
